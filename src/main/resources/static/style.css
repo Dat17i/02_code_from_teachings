@@ -1,0 +1,9 @@
+body { background-color: #44a199 }
+h1, h2 {color : #ffffff}
+table, td {border: 1px solid #666666}
+
+.selected {background-color: #ffff80}
+
+#linkToSomething { text-decoration: none}
+
+/* CSS comment  */
