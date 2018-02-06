@@ -1,4 +1,4 @@
-body { background-color: #44a199 }
+
 h1, h2 {color : #ffffff}
 table, td {border: 1px solid #666666}
 
@@ -6,4 +6,17 @@ table, td {border: 1px solid #666666}
 
 #linkToSomething { text-decoration: none}
 
-/* CSS comment  */
+/* Comming Soon page  */
+
+body {
+    background-image: url("https://image.freepik.com/free-photo/forrest_2454109.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
